@@ -1,5 +1,7 @@
 <p align='center'>
- <img width="460" height="300" src="images/alpine.jpg">
+ <img  src="images/alpine.jpg">
+ </p>
+<p align='center'>
 <a href="https://www.linkedin.com/in/gmithuran/"><img height="30" src="images/linkedin.png"></a>
 </p>
 
