@@ -1,5 +1,6 @@
-# [![gmithuran header](images/alpine.jpg)]
+
 <p align='center'>
+[![gmithuran header](images/alpine.jpg)]
 <a href="https://www.linkedin.com/in/gmithuran/"><img height="30" src="images/linkedin.png"></a>
 </p>
 
