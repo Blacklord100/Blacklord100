@@ -1,34 +1,25 @@
-<p align='center'>
- <img  src="https://github.com/Blacklord100/Blacklord100/tree/master/images/alpine.jpg">
- </p>
-<p align='center'>
-<a href="https://www.linkedin.com/in/gmithuran/"><img height="30" src="https://github.com/Blacklord100/Blacklord100/tree/master/images/linkedin.png"></a>
-</p>
----
-Hi there 👋,
 
-I am a Data Scientist with financial engineering background. Currently working on a self-driving car with Deep Learning. Really am into cars, hit me up if you like the subject too ! 
+# Hey there! 👋
 
-
- <p>
-  <img width="250" align='left' src="https://github.com/Blacklord100/Blacklord100/tree/master/images/plateau repas.jpg">
-</p>
- 
-### Ernicio Rule
-
-
-
- ---
-
-### 🌱 What do I do ?
-
-I write about things I am familiar with, usually things that I am learning. If I am able to share knowledge then I feel that I assimilated the thing too. Day to day I make things with **data** using **python** and **Deep Learning frameworks**. 
-
+I am Mithuran Gajendran. I consider myself as a smart worker and determined team player.
 Have a look at my latest medium : [👉](https://medium.com/)
 
-### 👯 Hobbies ?
 
-Big foodie ! 
+### 🌱 What do I do?
+- ✔️I am a Data Scientist with financial engineering background. 
+- ✔️About to finish my MSc in Applied Maths, Data Science at École Polytechnique & Paris Saclay, and my financial engineering degree. 
 
+- ✔️I'm a fast learner looking for interesting career opportunities. I am mainly looking to learn further and challenge myself in Data & Finance. 
 
----
+- ✔️I'm quite easy to live with and add to the diversity of the team ! Brought up in the Netherlands, before landing in Paris 
+
+### ⚡ One line that describes me best? 
+I am ambitious and a hard worker. Give me an opportunity, I will make it happen. 
+
+### 👯 My other interests
+Into Martial arts and cars : Taekwondo and Alpine
+Big foodie
+Ping me if you are into it !
+
+### 📫 How to reach me or 💬 Want to know more about me?
+Reach me on my [LinkedIn](https://www.linkedin.com/gmithuran/)
