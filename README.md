@@ -4,11 +4,11 @@
 <p align='center'>
 <a href="https://www.linkedin.com/in/gmithuran/"><img height="30" src="images/linkedin.png"></a>
 </p>
-
+---
 Hi there 👋,
 
 I am a Data Scientist with financial engineering background. Currently working on a self-driving car with Deep Learning. Really am into cars, hit me up if you like the subject too ! 
-  ---
+
 
  <p>
   <img width="250" align='left' src="images/plateau repas.jpg">
