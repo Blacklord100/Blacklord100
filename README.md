@@ -1,7 +1,7 @@
 
 # Hey there! 👋
 
-I am Mithuran Gajendran. I consider myself as a smart worker and determined team player. Currently working on a self-driving car's AI and making it robust toward Adversarial Attacks. Have a look at my latest [medium : ](https://medium.com/)
+I am Mithuran Gajendran. I consider myself as a smart worker and determined team player. Currently working on a self-driving car's AI and making it robust toward Adversarial Attacks. Have a look at my latest [medium](https://medium.com/).
 
 
 ### 🌱 Who am I ?
