@@ -7,7 +7,7 @@ I am Mithuran Gajendran. I consider myself as a smart worker and determined team
 ### 🌱 Who am I ?
 - ✔️I am a Data Scientist with financial engineering background. 
 - ✔️About to finish my financial engineering degree and my MSc in Applied Maths, Data Science at École Polytechnique & Paris Saclay
-- ✔️I'm a fast learner looking for interesting career opportunities. I am mainly looking to learn further and challenge myself in Data & Finance
+- ✔️I'm a fast learner looking for new challenges. I am mainly looking to learn further and challenge myself in Data & Finance
 - ✔️I'm quite fun to work with and efficient. Get my work done, consulting background helps :D
 
 ### ⚡ One line that describes me best? 
