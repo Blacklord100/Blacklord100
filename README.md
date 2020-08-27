@@ -7,26 +7,28 @@
 
 Hi there 👋,
 
-I am a Data Scientist with financial engineering background, I am willing to make an impact. 
-
- 
+I am a Data Scientist with financial engineering background. Currently working on a self-driving car with Deep Learning. Really am into cars, hit me up if you like the subject too ! 
   ---
- | Currently working on a self driving car |
+
  <p>
-  <img width="250" align='left' src="https://google.com">
+  <img width="250" align='left' src="images/plateau repas.jpg">
 </p>
  
 ### Ernicio Rule
 
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+
 
  ---
 
-### My Digital Garden 🌱
+### 🌱 What do I do ?
 
 I write about things I am familiar with, usually things that I am learning. If I am able to share knowledge then I feel that I assimilated the thing too. Day to day I make things with **data** using **python** and **Deep Learning frameworks**. 
 
 Have a look at my latest medium : [👉](https://medium.com/)
+
+### 👯 Hobbies ?
+
+Big foodie ! 
 
 
 ---
