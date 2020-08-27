@@ -1,8 +1,8 @@
 <p align='center'>
- <img  src="images/alpine.jpg">
+ <img  src="https://github.com/Blacklord100/Blacklord100/tree/master/images/alpine.jpg">
  </p>
 <p align='center'>
-<a href="https://www.linkedin.com/in/gmithuran/"><img height="30" src="images/linkedin.png"></a>
+<a href="https://www.linkedin.com/in/gmithuran/"><img height="30" src="https://github.com/Blacklord100/Blacklord100/tree/master/images/linkedin.png"></a>
 </p>
 ---
 Hi there 👋,
@@ -11,7 +11,7 @@ I am a Data Scientist with financial engineering background. Currently working o
 
 
  <p>
-  <img width="250" align='left' src="images/plateau repas.jpg">
+  <img width="250" align='left' src="https://github.com/Blacklord100/Blacklord100/tree/master/images/plateau repas.jpg">
 </p>
  
 ### Ernicio Rule
