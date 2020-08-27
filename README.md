@@ -17,7 +17,7 @@ I am ambitious and a hard worker. I will make it happen !
 - Martial arts : Taekwondo
 - Cars : A110s, mx-5, v40, c63s ...
 - Big foodie
-- Ping me if you are into it !
+Ping me if you are into any of those !
 
 ### 📫 How to reach me or 💬 Want to know more about me?
 Reach me on my [LinkedIn](https://www.linkedin.com/gmithuran/)
