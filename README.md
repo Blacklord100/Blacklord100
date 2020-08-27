@@ -1,4 +1,4 @@
-# [![gmithuran header](images/alpine.jpg]
+# [![gmithuran header](images/alpine.jpg)]
 <p align='center'>
 <a href="https://www.linkedin.com/in/gmithuran/"><img height="30" src="images/linkedin.png"></a>
 </p>
