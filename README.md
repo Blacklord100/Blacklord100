@@ -21,4 +21,4 @@ I am ambitious and a hard worker. I will make it happen !
 Ping me if you are into any of those !
 
 ### 📫 How to reach me or 💬 Want to know more about me?
-Reach me on my [LinkedIn](https://www.linkedin.com/gmithuran/)
+Reach me on my [LinkedIn](https://www.linkedin.com/in/gmithuran/)
