@@ -1,17 +1,20 @@
 
 # Hey there! 👋
 
-I am Mithuran Gajendran. I consider myself as a smart worker and determined team player. Currently working on a self-driving car's AI and making it robust toward Adversarial Attacks. Have a look at my latest [medium](https://medium.com/@mithuran.gajendran/hackers-vs-neural-networks-game-on-part-1-8af6be210e9d).
+I am Mithuran Gajendran, a Data Scientist/Analyst. Currently working on direct sales optimization at Volvo Cars.
+Have a look at my latest [medium](https://medium.com/@mithuran.gajendran/hackers-vs-neural-networks-game-on-part-1-8af6be210e9d).
+
+My main repositories are private, ping me to get a tour of them.
 
 
 ### 🌱 Who am I ?
 - ✔️I am a Data Scientist with financial engineering background. 
-- ✔️About to finish my financial engineering degree and my MSc in Applied Maths, Data Science at École Polytechnique & Paris Saclay
+- ✔️Have a financial engineering degree and my MSc in Applied Maths, Data Science at École Polytechnique & Paris Saclay
 - ✔️I'm a fast learner looking for new challenges. I am mainly looking to learn further and challenge myself in Data & Finance
-- ✔️I'm quite fun to work with and efficient. Get my work done, consulting background helps :D
+- ✔️Fun to work with and efficient.
 
 ### ⚡ One line that describes me best? 
-I am ambitious and a hard worker. I will make it happen !
+I am ambitious and a hard worker. 
 
 ### 👯 My other interests
 - Martial arts : Taekwondo
