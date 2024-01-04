@@ -1,27 +1,26 @@
+# Bonjour! 👋
 
-# Hey there! 👋
+I'm Mithuran Gajendran, currently serving as CFO at Volvo Cars Tech Fund and a seasoned Data Scientist. My expertise lies in the intersection of Automotive, Finance, and Technology.
 
-I am Mithuran Gajendran, a Data Scientist/Analyst. Currently working on direct sales optimization at Volvo Cars.
-Have a look at my latest [medium](https://medium.com/@mithuran.gajendran/hackers-vs-neural-networks-game-on-part-1-8af6be210e9d).
+"Decoding the intricacies of AI-tech in Venture Capital through a Machine Learning lens."
+"Why a Machine Learner in a VC team?" you might ask. Who better to comprehend and apply AI's fundamentals in VC than someone with a deep-rooted understanding of machine learning? Especially, in this era of LLMs.
 
-My main repositories are private, ping me to get a tour of them.
+🔒 Most of my repositories are private, but I'm open to giving guided tours upon request.
 
+### 🌱 About Me
+- Financial Engineering and an MSc in Applied Mathematics & Data Science from École Polytechnique & Paris Saclay.
+- Curious and a voracious learner, I am constantly seeking new ventures.
+- Convinced that engineers have a crucial role in shaping contemporary societies through the implementation of solutions grounded in factual evidence.
 
-### 🌱 Who am I ?
-- ✔️I am a Data Scientist with financial engineering background. 
-- ✔️Have a financial engineering degree and my MSc in Applied Maths, Data Science at École Polytechnique & Paris Saclay
-- ✔️I'm a fast learner looking for new challenges. I am mainly looking to learn further and challenge myself in Data & Finance
-- ✔️Fun to work with and efficient.
+### ⚡ A Phrase That Sums Me Up:
+"Let's do it!"
 
-### ⚡ One line that describes me best? 
-I am ambitious and a hard worker. 
-
-### 👯 My other interests
-- Martial arts : Taekwondo
-- Cars : A110s, mx-5, v40, c63s ...
+### 👯 Interests Beyond Work
+- Practitioner of Taekwondo & Kick Boxing.
+- Automotive enthusiast with a keen interest in models like A110s, MX-5 etc.
 - Big foodie
 
-Ping me if you are into any of those !
+Feel free to connect if you share any of these passions!
 
-### 📫 How to reach me or 💬 Want to know more about me?
-Reach me on my [LinkedIn](https://www.linkedin.com/in/gmithuran/)
+### 📫 Connect With Me
+For further insights into my professional journey or to spark a conversation, reach out on [LinkedIn](https://www.linkedin.com/in/gmithuran/).
